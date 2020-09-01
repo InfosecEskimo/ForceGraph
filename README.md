@@ -1,11 +1,10 @@
-# ForceGraph
+# ForceGraph Visualizer
 
 Upload your JSON data to see a visualization
 
-## Installation
+Open the Javascript Console to see node id and group on hover
 
-Currently using NodeJS.
-NodeJS version specified in .nvmrc file
+## Installation
 
 ```bash
 npm install
