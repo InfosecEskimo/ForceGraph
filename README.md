@@ -4,12 +4,26 @@ Upload your JSON data to see a visualization
 
 Open the Javascript Console to see node id and group on hover
 
+## Installing NodeJS (SKIP if NodeJS is already installed)
+
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+nvm install node
+```
+
 ## Installation
 
 ```bash
 npm install
 npm start
 ```
+
+## Deployment
+1. Run 
+```bash
+npm build
+```
+2. Host the contents of the build folder somewhere
 
 ## Contributing
 
