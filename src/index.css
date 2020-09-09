@@ -18,3 +18,14 @@ code {
   border: 1px dashed;
   padding-bottom: 40px;
 }
+
+.hover-block {
+  height: 100px;
+  width: 250px;
+  position: fixed;
+  bottom: 0px;
+  right: 0;
+  border: 5px solid #1f5e89;
+  background-color: #242424;
+  padding: 5px 10px;
+}
